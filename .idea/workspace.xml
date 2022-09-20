@@ -26,6 +26,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -52,7 +57,15 @@
       <option name="presentableId" value="Default" />
       <updated>1663575155844</updated>
       <workItem from="1663575157224" duration="6662000" />
-      <workItem from="1663613809888" duration="1443000" />
+      <workItem from="1663613809888" duration="3580000" />
+      <workItem from="1663687923130" duration="270000" />
+      <workItem from="1663688203797" duration="427000" />
+      <workItem from="1663688642072" duration="489000" />
+      <workItem from="1663689141278" duration="69000" />
+      <workItem from="1663689307524" duration="356000" />
+      <workItem from="1663689721431" duration="58000" />
+      <workItem from="1663689800069" duration="62000" />
+      <workItem from="1663696985683" duration="347000" />
     </task>
     <task id="LOCAL-00001" summary="Started the work">
       <created>1663602590580</created>
@@ -68,7 +81,28 @@
       <option name="project" value="LOCAL" />
       <updated>1663614522562</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Started the work">
+      <created>1663615430014</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663615430014</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Started the work">
+      <created>1663615499560</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663615499560</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Started the work">
+      <created>1663615549658</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663615549658</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,7 +113,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
